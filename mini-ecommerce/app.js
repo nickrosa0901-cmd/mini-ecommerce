@@ -4,7 +4,7 @@ const {
   cadastrarProduto,
   listarProdutos,
   buscarProdutoPorId,
-} = require("./productos");
+} = require("./produtos");
 const { adicionarItem, exibirResumo } = require("./carrinho");
 
 let continuar = true;
